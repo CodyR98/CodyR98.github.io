@@ -35,5 +35,26 @@ h2{
 }
 
 .About-Me{
-	text-decoration: none;
+	color: red;
+	text-decoration: bold;
+	display:inline-block;
+	justify-content: space-between;
+	padding-left: 5px;
+	
+}
+img {
+  border: 3px solid black;
+}
+.background-info {
+	color: red;
+	font-size: 20px;
+	margin: 0 auto;
+	display: table;
+	text-align: center;
+}
+
+.gallery{
+
+	float: left;
+	padding-left: 20px;
 }
