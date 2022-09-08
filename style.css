@@ -1,0 +1,39 @@
+#menu-outer {
+	height: 150px;
+	background-image: url(photos/MenuBanner.jpg);
+	
+
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+	
+
+}
+
+ul#horizontal-list {
+	text-align: right;
+	min-width: 696px;
+	list-style: none;
+	padding-top: 60px;
+	display: flex;
+	justify-content: space-between;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
+a {
+		color: red;
+		text-decoration: none;
+}
+	
+	
+h2{
+	text-align: center;
+	padding-top: 10px;
+}
+
+.About-Me{
+	text-decoration: none;
+}
