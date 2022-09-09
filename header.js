@@ -13,9 +13,9 @@ document.write('\
 	</nav>\
 	</div>\
 		<div class="header-left">\
-		<img src="/Graphics/RMIT.png">\
+		<img src="../Graphics/RMIT.png">\
 	</div>\
 		<div class="header-right">\
-		<img src="/Graphics/RMIT.png">\
+		<img src="../Graphics/RMIT.png">\
 	</div>\
 ');
