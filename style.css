@@ -1,7 +1,6 @@
 #menu-outer {
 	height: 150px;
-	background-image: url('/Photos/MenuBanner.jpg');
-	
+	background-color: #000053;
 
 }
 
@@ -57,4 +56,13 @@ img {
 
 	float: left;
 	padding-left: 20px;
+}
+
+.header-right{
+	float: right;
+	
+}
+
+.header-left{
+	float: left;
 }
