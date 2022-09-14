@@ -9,7 +9,7 @@ document.write('\
 			<li><a href="InterestinIT.html">IT Interest</a></li>\
 			<li><a href="Project.html">PROJECT</a></li>\
 			<li><a href="PersonalProfile.html">Personal Profile</a></li>\
-			<li><a href="Refrence.html">Refrence</a><li>\
+			<li><a href="Reference.html">Reference</a><li>\
 		</ul>\
 	</nav>\
 	</div>\
