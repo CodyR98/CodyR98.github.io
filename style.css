@@ -124,3 +124,7 @@ width: 50%;
 hr{
 	width:100%;
 }
+
+iframe{
+	display: table;
+}
