@@ -126,7 +126,7 @@ hr{
 }
 
 .PDF{
-	display: flex;
+	display: table;
 	align-items: center;
 	justify-content: center;
 	width: 1000px;
