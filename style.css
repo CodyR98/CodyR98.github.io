@@ -126,7 +126,7 @@ hr{
 }
 
 iframe{
-	display: table;
-	width: 100%;
-	height: 70%;
+	float: center;
+	width: 1000px;
+	height: 1000px;
 }
