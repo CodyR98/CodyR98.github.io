@@ -125,7 +125,7 @@ hr{
 	width:100%;
 }
 
-iframe{
+.PDF{
 	display: flex;
 	align-items: center;
 	justify-content: center;
