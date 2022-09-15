@@ -127,4 +127,6 @@ hr{
 
 iframe{
 	display: table;
+	width: 100%;
+	height: 70%;
 }
