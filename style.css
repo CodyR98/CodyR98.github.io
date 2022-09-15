@@ -121,12 +121,10 @@ width: 50%;
 	vertical-align: top;
 }
 
-hr{
-	width:100%;
-}
 
 .PDF{
 	display: block;
+	margin: 0 auto;
 	width: 1000px;
 	height: 1000px;
 }
