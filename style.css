@@ -128,3 +128,18 @@ width: 50%;
 	width: 1000px;
 	height: 1000px;
 }
+
+.float-left2 {
+float: left;
+width: 50%;
+
+}
+
+.Tests {
+		color: red;
+	vertical-align: top;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 40px;
+	font-size: 25px;
+}
